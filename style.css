@@ -1,0 +1,23 @@
+html,
+body {
+  height: 100%;
+}
+
+html {
+  /* display: table; */
+  margin: auto;
+}
+
+body {
+  background: #000000;
+  /* display: table-cell;
+  vertical-align: middle; */
+  font-family: "Source Code Pro";
+  color: #ffffff;
+}
+
+canvas {
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
